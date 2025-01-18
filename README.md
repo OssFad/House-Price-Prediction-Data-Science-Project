@@ -9,15 +9,15 @@ What things does a potential home buyer consider before purchasing a house? The 
 By analyzing these **house data** we will determine the **house's approximate price**.
 
 ## ***Data Description:***
-📌 **Area_type** - Description of the area
-📌 **Availability** - When it can be possessed or when it is ready
-📌 **Location** - Where it is located in Bengaluru
-📌 **Size** - BHK or Bedrooms
-📌 **Society** - To which society it belongs
-📌 **Total_sqft** - Size of the property in sq.ft
-📌 **Bath** - No. of Bathrooms
-📌 **Balcony** - No. of the Balcony
-📌 **Price** - Value of the property in lakhs (Indian Rupee - ₹)
++📌 **Area_type** - Description of the area
++📌 **Availability** - When it can be possessed or when it is ready
++📌 **Location** - Where it is located in Bengaluru
++📌 **Size** - BHK or Bedrooms
++📌 **Society** - To which society it belongs
++📌 **Total_sqft** - Size of the property in sq.ft
++📌 **Bath** - No. of Bathrooms
++📌 **Balcony** - No. of the Balcony
++📌 **Price** - Value of the property in lakhs (Indian Rupee - ₹)
 
 ## ***Business Objectives & Constraints:***
 1. The cost of misclassification can be high.¶
