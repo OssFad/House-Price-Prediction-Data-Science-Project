@@ -1,5 +1,5 @@
 # House-Price-Prediction-Data-Science-Project
-![Alt Text](https://github.com/OssFad/House-Price-Prediction-Data-Science-Project/blob/main/Yellow%20and%20Black%20Real%20Estate%20Promotion%20Instagram%20Post.png)
+![Alt Text](https://github.com/OssFad/House-Price-Prediction-Data-Science-Project/blob/main/Yellow%20and%20Black%20Real%20Estate%20Promotion%20Instagram%20Post%20(1).png)
 
 
 ## ***Description:***
