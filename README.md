@@ -1,6 +1,9 @@
 # House-Price-Prediction-Data-Science-Project
 ![Alt Text](https://github.com/OssFad/House-Price-Prediction-Data-Science-Project/blob/main/Yellow%20and%20Black%20Real%20Estate%20Promotion%20Instagram%20Post%20(1).png)
-
+## Logo
+<p align="center">
+  <img src="https://github.com/OssFad/House-Price-Prediction-Data-Science-Project/blob/main/Yellow%20and%20Black%20Real%20Estate%20Promotion%20Instagram%20Post%20(1).png" alt="Logo" width="400">
+</p>
 
 ## ***Description:***
 What things does a potential home buyer consider before purchasing a house? The location, the size of the property, the vicinity to offices, schools, parks, restaurants, hospitals, or the stereotypical white picket fence? What about the most important factor — the price?
